@@ -6,13 +6,14 @@
 <div align="center">
 
 # Solutions to **Database System Concepts** _Seventh Edition_
- 
+
 </div>
 
-The solutions to the Practice Exercises are given at the book's [website](https://www.db-book.com/Practice-Exercises/index-solu.html). But I include them here for completeness sake. 
 
+## References & Quick access
 
-I try to answer the Exercises.
+- https://www.db-book.com/
+- https://www.db-book.com/university-lab-dir/sqljs.html
 
 ## Usage
 
@@ -24,14 +25,13 @@ Just head on over to [https://dsc-answers.web.app](https://dsc-answers.web.app)
 
 1. Clone the repo: 
 ```
-git clone https://github.com/noahabe/database_system_concepts_answers
+git clone https://github.com/cavalcantelucas/database_system_concepts_answers
 ```
 
 2. Open the markdown files (`x.md`) in [VS Code (Visual Studio Code)](https://code.visualstudio.com/). 
-3. Then press `Ctrl + Shift + V` to see the rendered file. 
+3. Then press `Ctrl + Shift + V` to see the rendered file.
+
 
 ## Contributing
 
-If you find any mistakes, please create an issue to tell me.
-
-Pull requests are also appreciated. 
+Pull requests appreciated.
